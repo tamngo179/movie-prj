@@ -1,0 +1,108 @@
+{
+  "movies_per_year": {
+    "2015": 482,
+    "2016": 480,
+    "2017": 478,
+    "2018": 481,
+    "2019": 481,
+    "2020": 483,
+    "2021": 483,
+    "2022": 481,
+    "2023": 483,
+    "2024": 481,
+    "2025": 187
+  },
+  "top_10_genres": {
+    "Drama": 2170,
+    "Comedy": 1190,
+    "Thriller": 815,
+    "Action": 639,
+    "Documentary": 631,
+    "Horror": 482,
+    "Crime": 353,
+    "Science Fiction": 244,
+    "Romantic Comedy": 227,
+    "Short": 197
+  },
+  "top_10_directors": {
+    "Midhun Manuel Thomas": 7,
+    "Jun Robles Lana": 6,
+    "Ram Gopal Varma": 5,
+    "Sundar C": 5,
+    "K. M. Chaitanya": 5,
+    "Raja Chanda": 5,
+    "Kaushik Ganguly": 5,
+    "Sam Liu": 5,
+    "Jack Neo": 4,
+    "Atanu Ghosh": 4
+  },
+  "top_10_actors": {
+    "Saiju Kurup": 13,
+    "Sanjay Mishra": 12,
+    "Aju Varghese": 11,
+    "Sunny Wayne": 11,
+    "Abir Chatterjee": 11,
+    "Eric Roberts": 11,
+    "Prakash Raj": 11,
+    "Alec Baldwin": 10,
+    "Suraj Venjaramoodu": 10,
+    "Asif Ali": 10
+  },
+  "top_10_countries": {
+    "United States": 1398,
+    "India": 1212,
+    "Canada": 324,
+    "France": 281,
+    "United Kingdom": 250,
+    "Germany": 114,
+    "Spain": 114,
+    "South Korea": 95,
+    "Italy": 94,
+    "China": 91
+  },
+  "runtime_statistics": {
+    "mean_minutes": 102.96,
+    "median_minutes": 100.0,
+    "std_minutes": 29.24,
+    "min_minutes": 0.0,
+    "max_minutes": 480.0,
+    "valid_count": 3981
+  },
+  "entities_by_type": {
+    "Person": 27248,
+    "Organization": 6243,
+    "Movie": 5000,
+    "Language": 218,
+    "Country": 157,
+    "Genre": 29
+  },
+  "relations_by_type": {
+    "PRODUCED_BY": 21534,
+    "ACTED_BY": 18877,
+    "HAS_GENRE": 8404,
+    "WRITTEN_BY": 7371,
+    "PRODUCED_IN": 5975,
+    "IN_LANGUAGE": 5689,
+    "DIRECTED_BY": 5408
+  },
+  "missing_data_pct": {
+    "movie_id": 0.0,
+    "title": 0.0,
+    "release_year": 0.0,
+    "release_date": 0.0,
+    "director": 4.58,
+    "cast": 13.6,
+    "writer": 15.84,
+    "producer": 15.78,
+    "production_company": 17.62,
+    "genre": 4.02,
+    "country": 5.72,
+    "language": 6.84,
+    "runtime": 20.38,
+    "wiki_url": 0.0,
+    "content": 1.16
+  },
+  "crawl_status": {
+    "SUCCESS": 5200
+  }
+}
